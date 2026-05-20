@@ -6,6 +6,8 @@ _I got to learn coding because of games and thought that I could make one myself
 
 _I am currently studying Vue 3 and will soon be working on a personal project of mine._
 
+_I also made a little website project called "Valorant Companion"(Will soon upload it on the internet (❁´◡`❁))_
+
 _I collaborated with friends of mine! We made a little mobile game called "Seed of Tomorrow: Guardian of Stone Creek".(will soon upload it on the internet (❁´◡`❁))_
 
 You can reach me on </br>
