@@ -2,13 +2,13 @@
 
 ### __little bit about me__
 
-_I got to learn coding because of games and thought that I could make one myself but instead, I learn to love designing things!(UI / UX designer) Not the best one there yet but will improve!_
+_I started learning programming because of my love for games, and along the way I discovered a passion for UI/UX design and front-end development. Continuously improving my skills through personal projects and collaborative development._
 
 _I am currently studying Vue 3 and will soon be working on a personal project of mine._
 
-_I also made a little website project called "Valorant Companion"(Will soon upload it on the internet (❁´◡`❁))_
+_I also made a little website project called "Valorant Companion"(🚧 Coming Soon))_
 
-_I collaborated with friends of mine! We made a little mobile game called "Seed of Tomorrow: Guardian of Stone Creek".(will soon upload it on the internet (❁´◡`❁))_
+_I collaborated with friends of mine! We made a little mobile game called "Seed of Tomorrow: Guardian of Stone Creek".(🚧 Coming Soon)_
 
 You can reach me on </br>
 📧: candiceccaboborac@gmail.com </br>
